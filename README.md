@@ -1,5 +1,3 @@
-# DrugReview
-
 ![1](https://github.com/woonsupkim/DrugReview/blob/main/PPT/AboutFiles/Slide1.PNG)
 ![1](https://github.com/woonsupkim/DrugReview/blob/main/PPT/AboutFiles/Slide2.PNG)
 ![1](https://github.com/woonsupkim/DrugReview/blob/main/PPT/AboutFiles/Slide3.PNG)
